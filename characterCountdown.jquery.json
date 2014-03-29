@@ -1,0 +1,30 @@
+{
+  "name": "jquery.characterCountdown",
+  "title": "jQuery CharacterCountdown",
+  "description": "The remaining number of characters",
+    "keywords": [
+        "character Countdown",
+        "remaining number",
+        "remaining characters"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Engin Kartal",
+        "email": "enginkartal.projects@gmail.com",
+        "url": "http://enginkartal.com.tr/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/enginkartal/jQuery.characterCountdown/blob/master/LICENSE"
+        }
+    ],
+	"demo":"http://www.enginkartal.com.tr/projects/jquery/characterCountdown/"
+    "bugs": "/issues",
+    "homepage": "http://www.enginkartal.com.tr/projects/jquery/characterCountdown/",
+    "docs": "http://www.enginkartal.com.tr/projects/jquery/characterCountdown/",
+    "dependencies": {
+        "jquery": ">= 1.9.0"
+    }
+}
+
