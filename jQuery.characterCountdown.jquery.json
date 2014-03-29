@@ -1,11 +1,11 @@
 {
-  "name": "jquery.characterCountdown",
+  "name": "jQuery.characterCountdown",
   "title": "jQuery CharacterCountdown",
   "description": "The remaining number of characters",
     "keywords": [
-        "character Countdown",
-        "remaining number",
-        "remaining characters"
+        "characterCountdown",
+        "remainingNumber",
+        "remainingCharacters"
     ],
     "version": "0.1.0",
     "author": {
