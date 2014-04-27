@@ -1,8 +1,8 @@
 ﻿/*
 * File: jQuery.characterCountdown.js
 * Author: Engin KARTAL
-* Copyright: 2006 Simon Jarvis
-* Date: 08/11/06
+* Copyright: 2014 Engin Kartal
+* Date: 03.29.2014
 * Link: http://www.enginkartal.com.tr/projects/jquery/characterCountdown
 *
 * GNU General Public License for more details:
@@ -14,7 +14,8 @@
     $.fn.characterCountdown = function (settings) {
 
         var defaultSetting = {
-            text: 'Remainin:g'
+            text: 'Remaining:',
+            maxLength:'50'
         };
 
         var obj = $.extend(defaultSetting, settings);
