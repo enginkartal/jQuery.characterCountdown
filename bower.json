@@ -1,0 +1,24 @@
+{
+  "name": "jQuery.characterCountdown",
+  "main": "jQuery.characterCountdown.js",
+  "homepage": "https://github.com/enginkartal/jQuery.characterCountdown",
+  "authors": [
+    "Engin Kartal <enginkartal@yandex.com>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "keywords": [
+    "jquery",
+    "character",
+    "count"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
